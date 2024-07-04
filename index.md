@@ -1,1 +1,1 @@
-[Document.md](./Document.md)
+[Document](Document.md)
